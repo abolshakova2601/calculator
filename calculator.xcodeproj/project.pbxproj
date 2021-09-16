@@ -11,6 +11,7 @@
 		CEE4F02A26F207DE006B2450 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE4F02926F207DE006B2450 /* ContentView.swift */; };
 		CEE4F02C26F207DF006B2450 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE4F02B26F207DF006B2450 /* Assets.xcassets */; };
 		CEE4F02F26F207DF006B2450 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE4F02E26F207DF006B2450 /* Preview Assets.xcassets */; };
+		CEE4F03726F20EDA006B2450 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE4F03626F20EDA006B2450 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CEE4F02B26F207DF006B2450 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEE4F02E26F207DF006B2450 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CEE4F03026F207DF006B2450 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEE4F03626F20EDA006B2450 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				CEE4F02726F207DE006B2450 /* calculatorApp.swift */,
+				CEE4F03626F20EDA006B2450 /* Launch Screen.storyboard */,
 				CEE4F02926F207DE006B2450 /* ContentView.swift */,
 				CEE4F02B26F207DF006B2450 /* Assets.xcassets */,
 				CEE4F03026F207DF006B2450 /* Info.plist */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEE4F03726F20EDA006B2450 /* Launch Screen.storyboard in Resources */,
 				CEE4F02F26F207DF006B2450 /* Preview Assets.xcassets in Resources */,
 				CEE4F02C26F207DF006B2450 /* Assets.xcassets in Resources */,
 			);
